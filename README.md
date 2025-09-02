@@ -22,7 +22,7 @@ Recién graduada en Desarrollo de Aplicaciones Multiplataforma con perfil de Vid
 
 ## 🛠 Skills
 
-**Principales:**
+**Principales:**  
 `C#` `.NET` `Unity` 
 
 **Frontend:**  
