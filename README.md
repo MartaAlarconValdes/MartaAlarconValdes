@@ -22,14 +22,17 @@ Recién graduada en Desarrollo de Aplicaciones Multiplataforma con perfil de Vid
 
 ## 🛠 Skills
 
+**Principales**
+`C#` `.NET` `Unity` 
+
 **Frontend:**  
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js`  
+`HTML5` `CSS3` `JavaScript` `TypeScript` `Next.js`  
 
 **Backend & DB:**  
 `Node.js` `MongoDB` `PostgreSQL` 
 
 **Herramientas:**  
-`Git` `VS Code` `Figma`
+`Git` `VS Code` `Figma` `Blender`
 
 ---
 
