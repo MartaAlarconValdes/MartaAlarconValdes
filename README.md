@@ -15,7 +15,7 @@ Recién graduada en Desarrollo de Aplicaciones Multiplataforma con perfil de Vid
 - 🌍 Nacida y crecida en **Barcelona**.
 - 🌱 Constantemente aprendiendo y mejorando mis habilidades.
 - 🧠 Futura máster en BigData & IA.
-- 💻 Buscando mi primera oportunidad laboral en el sector. 
+- 💻 Trabajando como Programadora .Net. 
 - ⚡ Dato extra: me encanta viajar, los animales y el chocolate.
 
 ---
@@ -32,7 +32,7 @@ Recién graduada en Desarrollo de Aplicaciones Multiplataforma con perfil de Vid
 `SQL Server` `MongoDB` `PostgreSQL` 
 
 **Herramientas:**  
-`Git` `VS Code` `Blender`
+`Git` `VS Code` `Blender` `Azure DevOps`
 
 ---
 
